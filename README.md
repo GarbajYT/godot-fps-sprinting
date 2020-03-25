@@ -1,2 +1,2 @@
 # godot-fps-sprinting
-First person character controller with the ability to sprint 
+First person character controller with the ability to sprint, for the Godot game engine
